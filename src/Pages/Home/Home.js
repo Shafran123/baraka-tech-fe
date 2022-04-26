@@ -6,7 +6,7 @@ import RightLayout from '../../Layouts/RightLayout/RightLayout';
 
 export default function Home() {
     return (
-        <div className="grid  grid-cols-5 auto-cols-max">
+        <div className="flex md:grid  md:grid-cols-5 md:auto-cols-max">
             <LeftLayout />
             <RightLayout />
         </div>
