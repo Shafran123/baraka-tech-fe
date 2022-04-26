@@ -69,7 +69,7 @@ export default function FormLayout() {
 
                     <CommonInput id={'email'} lable={'Email'} placeholder={'Jhon@gmail.com'} isRequired={true} />
 
-                    <CommonInput id={'contact_no'} lable={'Contact No'} placeholder={'+971 56 57 91266'} isRequired={true} />
+                    <CommonInput id={'contact_no'} lable={'Contact No'} placeholder={'971565791266'} isRequired={true} />
 
                     <CommonTextArea id={'desc'} lable={'What is your concern?'} placeholder={'Tell Us!'} isRequired={true} />
 
